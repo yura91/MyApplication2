@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+cbgcvncvncvx
     bcvl;n,;lnl;vn,;lcm,nl;,mn;
 
 
@@ -19,5 +19,4 @@ public class MainActivity extends AppCompatActivity {
     ndf[p]mf[]mn
             ndf[]k[]k[d]mpnf
 }
-nbvgnbvgnccccccnc
-nl;cbmnl;bxmvm
+hfkjlhlkhjl.jhf
