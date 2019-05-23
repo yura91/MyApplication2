@@ -12,4 +12,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     bcvl;n,;lnl;vn,;lcm,nl;,mn;
+
+
+    gkfnmfnk;lmfdnmklfmn
+    nfmdpmnpdfmnp]dfm
+    ndf[p]mf[]mn
+            ndf[]k[]k[d]mpnf
 }
